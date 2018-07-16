@@ -299,7 +299,7 @@ public final class Gson {
   }
 
   public boolean serializeNulls() {
-    return serializeNulls;
+    return false;
   }
 
   public boolean htmlSafe() {
